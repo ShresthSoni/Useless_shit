@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1465046244 source:/home/shresth/Documents/ABA12C/main.c
+	<stdio.h>
+	<stdlib.h>
+
